@@ -3,7 +3,7 @@
 [![](https://img.shields.io/badge/Homepage-https%3A%2F%2Fseamile.cn-9cf)](https://seamile.cn/)
 
 - 💻 I'm a Python developer.
-- 🛠 I am proficient in web development.
+- 🛠 I'm proficient in web development.
 - 🏠 I’m currently working at home.
 - 🌱 I’m currently learning flutter.
 

@@ -4,7 +4,6 @@
 
 - 💻 I'm a Python developer.
 - 🛠 I'm proficient in web development.
-- 🏠 I’m currently working at home.
 - 🌱 I’m currently learning flutter.
 
 ## 𝗦𝘁𝗮𝘁𝘀

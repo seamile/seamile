@@ -8,4 +8,4 @@
 
 ## 𝗦𝘁𝗮𝘁𝘀
 
-![Seamile's github stats](https://github-readme-stats.vercel.app/api?username=seamile&show_icons=true&count_private=true&theme=radical)
+![Seamile's github stats](https://github-readme-stats.vercel.app/api?username=seamile&show_icons=true&include_all_commits=true&custom_title=GitHub+Stats&theme=vue)

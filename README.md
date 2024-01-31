@@ -1,12 +1,9 @@
 ### Hi there 👋
 
-<a  href="https://profile.codersrank.io/user/seamile/">
-  <img align="right" width="49%" src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=seamile&skills=Python,Shell,Go,Rust,JavaScript,HTML,CSS" />
-</a>
+<img align="right" src="https://github-readme-stats-sigma-five.vercel.app/api?username=seamile&show_icons=true&count_private=true" />
+
 
 🧑🏻‍💻 I am Seamile, a skilled full-stack developer.
-
-![Status](https://github-readme-stats-sigma-five.vercel.app/api?username=seamile&show_icons=true&count_private=true)
 
 ⭐️ I enjoy using these tools:
 
@@ -30,3 +27,8 @@
 ![Vue](https://img.shields.io/badge/-Vue-4FC08D?logoColor=fff&style=flat-square&logo=vuedotjs)
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?logoColor=fff&style=flat-square&logo=Flutter)
 ![PyQt](https://img.shields.io/badge/-PyQt-41CD52?logoColor=fff&style=flat-square&logo=qt)
+
+
+<a  href="https://profile.codersrank.io/user/seamile/">
+  <img  src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=seamile&skills=Python,Shell,Go,Rust,JavaScript,HTML,CSS" />
+</a>

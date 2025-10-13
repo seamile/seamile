@@ -4,7 +4,7 @@
 
 ⭐️ Favorite tools:
 
-<img align="right" src="https://github-readme-stats-sigma-five.vercel.app/api?username=seamile&show_icons=true&count_private=true" />
+<img align="right" src="https://github-readme-stats-sigma-five.vercel.app/api?username=seamile&show_icons=true&count_private=true&theme=tokyonight" />
 
 ![macOS](https://img.shields.io/badge/-macOS-000?logoColor=fff&style=flat-square&logo=apple)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logoColor=fff&style=flat-square&logo=Linux)

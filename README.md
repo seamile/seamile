@@ -2,7 +2,7 @@
 
 🧑🏻‍💻 I am Seamile, a skilled full-stack developer.
 
-<img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api?username=seamile&show_icons=true&count_private=true&theme=tokyonight" />
+<img align="left" width="50%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=seamile&show_icons=true&count_private=true&theme=tokyonight" />
 
 #### ⭐️ Favorite tools
 
@@ -21,8 +21,4 @@
 ![Vue](https://img.shields.io/badge/-Vue-43B883?logoColor=fff&style=flat-square&logo=vuedotjs)
 ![Flutter](https://img.shields.io/badge/-Flutter-35B9F7?logoColor=fff&style=flat-square&logo=Flutter)
 
-<div align="left">
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Seamile&theme=tokyonight)
-
-</div>
+<img align="left" width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Seamile&theme=tokyonight" />

@@ -2,9 +2,9 @@
 
 🧑🏻‍💻 I am Seamile, a skilled full-stack developer.
 
-<img align="left" width="50%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=seamile&show_icons=true&count_private=true&theme=tokyonight" />
+⭐️ Favorite tools:
 
-#### ⭐️ Favorite tools
+<img align="right" width="50%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=seamile&show_icons=true&count_private=true&theme=tokyonight" />
 
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logoColor=fff&style=flat-square&logo=Linux)
 ![macOS](https://img.shields.io/badge/-macOS-000?logoColor=fff&style=flat-square&logo=apple)
